@@ -3,7 +3,7 @@ Name   : NANDHIKA P
 Reg. no:212223040125
 
 
-#  Mean and variance of a discrete  distribution
+# EX-1: Mean and variance of a discrete  distribution
 
 
 # Aim : 
